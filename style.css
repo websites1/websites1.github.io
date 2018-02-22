@@ -1,15 +1,25 @@
+body{
+  border: 5px;
+  border-style: dashed;
+  color: #66a7b7
+}
+
 h1{
   font-family: fantasy;
-  color: #a58db5;
+  font-style: bold;
+  color: #66a7b7;
+  font-weight: bold;
 }
 
 h2{
   font-family: fantasy;
-  color: #a58db5;
+  color: #66a7b7;
+  font-weight: bold;
 }
 
 
 h3{
   font-family: cursive;
-  color: #a58db5;
+  color: #66a7b7;
+  font-weight: bold;
 }
