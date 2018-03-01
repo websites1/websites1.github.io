@@ -1,14 +1,14 @@
 .nav-bar{
   float: right;
-  border: 5px dashed #66a7b7;
+  font-family: fantasy;
+  color: #66a7b7;
 }
 
 #footer{
   clear: both;
-  border: 5px dashed #66a7b7;
+  font-family: fantasy;
+  color: #66a7b7;
 }
-
-
 
 body{
   border: 10px;
