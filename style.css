@@ -39,22 +39,20 @@ h3{
   
 @media (max-width: 480px) {
     img {
-        height: 500px;
-        width: 500px;
+        height: 400px;
     }
     #main-container {
-        font-size: 100px;
+        font-size: 50px;
         color: #FCF3CF;
     }
 
   
 @media (min-width: 768px) and (max-width: 1024px) {
     img {
-        height: 500px;
-        width: 500px;
+        height: 660px;
     }
     #main-container {
-        font-size: 100px;
+        font-size: 70px;
         color: #FCF3CF;
     }
 }
